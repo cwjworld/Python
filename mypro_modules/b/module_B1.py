@@ -8,3 +8,8 @@
 # fun_AA()
 
 import a
+import math
+
+print(a.math.pi)
+print(id(math))
+print(id(a.math))
